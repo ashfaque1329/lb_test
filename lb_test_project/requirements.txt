@@ -1,0 +1,10 @@
+bcrypt==3.1.5
+django_allauth==0.38.0
+django_cors_headers==2.4.0
+django_filter==2.0.0
+django_rest_auth==0.9.3
+Django==2.1.4
+djangorestframework_jwt==1.11.0
+djangorestframework==3.9.0
+Markdown==3.0.1
+psycopg2==2.7.6.1
